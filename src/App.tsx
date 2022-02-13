@@ -16,7 +16,7 @@ export function App(): JSX.Element {
             </p>
             <img
                 src="https://i2.pickpik.com/photos/365/322/338/animal-dog-snow-winter-preview.jpg"
-                alt="A picture of my dog Louie"
+                alt="A puppy :)"
             />
             <ul>
                 <li>This</li>
